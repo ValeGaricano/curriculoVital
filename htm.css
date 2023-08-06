@@ -1,0 +1,110 @@
+body{
+    background-color: pink;
+    background-position: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+h1{
+    font-family: cursive;
+    background-image: url(/Users/Admin.DESKTOP-HT5Q6EV/Desktop/PO/imagen-primer-plano-hierba-verde-fresca-primavera_1232-2759.avif);
+    color: rgb(255, 0, 179);
+    height: 50px;
+    text-align: center;
+    border: 5px solid rgb(255, 0, 179);
+    text-decoration: underline;
+    letter-spacing: 10px;
+    initial-letter: 20px;
+}
+
+nav{
+    position: fixed;
+    box-shadow: 7px 7px 7px red, 10px 10px 10px blueviolet, 13px 13px 13px blue;
+}
+.navg{
+    background-image: url(/Users/Admin.DESKTOP-HT5Q6EV/Desktop/PO/imagen-primer-plano-hierba-verde-fresca-primavera_1232-2759.avif);
+    text-align: left;
+    color: rgb(238, 255, 0);
+    text-align: left;
+
+}
+section#estudio{
+    background-image: url(/Users/Admin.DESKTOP-HT5Q6EV/Desktop/PO/542266_3854326513389_2118905044_n.jpg);
+    
+    background-size: 100%;
+    text-align: center;
+}
+p{
+    color:rgb(118, 4, 224);
+}
+h2{
+    text-align: center;
+    color: rgb(148, 0, 0);
+}
+#presentacion{
+    text-align: center;
+}
+#referenciasP{
+    text-align: left;
+    color: black;
+    margin-left: 25px;
+}
+#referenciasL{
+    text-align: left;
+    color: black;
+    margin-left: 30px;
+}
+a{
+    color: rgb(255, 0, 157);
+    
+}
+#estud{
+    color:rgb(129, 2, 202)
+}
+*{
+    margin: auto;
+    
+}
+table{
+    background-color: aquamarine;
+    border: 7px dotted red;
+    border-radius: 10%;
+    color: darkgreen;
+}
+img.nav{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    border: 5px;
+    border-radius: 10%;
+}
+img.especial{
+    border: 5px dotted rgb(0, 183, 255);
+}
+p#est{
+    color: rgb(255, 72, 0);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: 2px;
+    background-color: rgba(245, 245, 220, 0.527);
+}
+img{
+    width: 5px;
+    border: 5px solid rgb(3, 212, 21);
+}
+
+img:hover{
+    transform: scale(100);
+}
+#navegador{
+    color:rgb(0, 238, 255)
+}
+#referenciasLL{
+    letter-spacing: 1px;
+}
+#referenciasPP{
+    letter-spacing: 1px;
+}
+#pc{
+    text-align: center;
+    color:blue;
+}
